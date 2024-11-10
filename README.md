@@ -132,13 +132,6 @@ python -m hr_analyzer.dashboard
 - Streamlit (Dashboard)
 - FastAPI (API)
 
-## 📝 Dokumentation
-
-Ausführliche Dokumentation finden Sie in unserem [Wiki](https://github.com/username/hr-data-analysis/wiki).
-
-## 🤝 Beitragen
-
-Beiträge sind willkommen! Bitte lesen Sie unsere [Contribution Guidelines](CONTRIBUTING.md).
 
 ## 📄 Lizenz
 
