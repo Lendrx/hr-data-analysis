@@ -1,6 +1,6 @@
 # HR Data Analysis Project
 
-![HR Data Analysis Banner](https://via.placeholder.com/1000x300.png?text=HR+Data+Analysis)
+![HR Data Analysis Banner](src/datanalayze.png)
 
 ## 📊 Über das Projekt
 
