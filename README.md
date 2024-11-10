@@ -1,6 +1,6 @@
 # HR Data Analysis Project
 
-![HR Data Analysis Banner](src/datanalayze.png)
+![HR Data Analysis Banner](src/datanalyzehr.png)
 
 ## 📊 Über das Projekt
 
