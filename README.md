@@ -131,8 +131,3 @@ python -m hr_analyzer.dashboard
 - Plotly & Matplotlib
 - Streamlit (Dashboard)
 - FastAPI (API)
-
-
-## 📄 Lizenz
-
-Dieses Projekt steht unter der MIT-Lizenz. Weitere Details finden Sie in der [LICENSE](LICENSE) Datei.
